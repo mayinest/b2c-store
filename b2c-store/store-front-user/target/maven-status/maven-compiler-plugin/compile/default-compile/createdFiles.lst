@@ -1,0 +1,9 @@
+com\atguigu\user\controller\UserController.class
+com\atguigu\UserApplication.class
+com\atguigu\user\controller\AddressController.class
+com\atguigu\user\service\AddressService.class
+com\atguigu\user\mapper\AddressMapper.class
+com\atguigu\user\service\impl\AddressServiceImpl.class
+com\atguigu\user\service\impl\UserServiceImpl.class
+com\atguigu\user\service\UserService.class
+com\atguigu\user\mapper\UserMapper.class

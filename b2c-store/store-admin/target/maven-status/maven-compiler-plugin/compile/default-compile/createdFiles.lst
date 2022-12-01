@@ -1,0 +1,3 @@
+com\atguigu\admin\AdminApplication.class
+com\atguigu\admin\controller\HtmlJumpController.class
+com\atguigu\admin\config\AdminConfiguration.class
